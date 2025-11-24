@@ -5,36 +5,6 @@ O objetivo é mostrar como os **AC podem representar de forma intuitiva, espacia
 
 ---
 
-## 📌 Como os artigos se conectam: Epidemiologia + Cellular Automata
-
-O projeto é composto por dois textos principais:
-
-### **1. Artigo Epidemiológico (foco na doença e no modelo SEIR)**
-Este artigo apresenta:
-- A dinâmica epidemiológica da conjuntivite viral  
-- A estrutura SEIR tradicional (Suscetível, Exposto, Infectado, Recuperado)  
-- Parâmetros como período de incubação, duração da infecção, transmissibilidade etc.  
-- Como essas etapas se comportam na vida real  
-
-Ele fornece a **base conceitual** da doença e explica por que o modelo SEIR é adequado.
-
-### **2. Artigo de Autômato Celular (foco no modelo computacional)**
-Este segundo texto aprofunda o uso de um **Autômato Celular 2D** como alternativa espacial ao SEIR clássico.  
-Discute:
-- Construção da grade
-- Regras locais (vizinhança de Moore)
-- Transições S → E → I → R no contexto de AC
-- Emergência de padrões
-- Visualização de clusters e frentes de transmissão
-
-Enquanto o artigo sobre epidemiologia explica *o que* está sendo modelado,  
-o artigo sobre automatos celulares explica *como* a dinâmica está sendo simulada computacionalmente.
-
-Os dois juntos fornecem uma visão completa do problema:
-> Epidemiologia teórica + Simulação espacial computacional
-
-
-
 ## ▶️ Como baixar e rodar o código
 
 ### **1. Clonar o repositório**
