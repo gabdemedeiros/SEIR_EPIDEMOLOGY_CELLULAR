@@ -1,6 +1,6 @@
 # Modelagem Epidemiológica com Autômatos Celulares – SEIR aplicado à Conjuntivite Viral
 
-Este repositório reúne o código e os artigos produzidos sobre o uso de **Autômatos Celulares (Cellular Automata – CA)** para simular o espalhamento de doenças de transmissão local, com foco em um modelo SEIR aplicado à conjuntivite viral.  
+Este repositório reúne o código e os artigos produzidos sobre o uso de **Autômatos Celulares (Cellular Automata – CA)** para simular o espalhamento de doenças de transmissão local, com foco em um **modelo SEIR** aplicado à conjuntivite viral.  
 O objetivo é mostrar como os **AC podem representar de forma intuitiva, espacial e visual** a progressão de um surto epidemiológico.
 
 ---
