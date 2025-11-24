@@ -5,6 +5,8 @@ O objetivo é mostrar como os **AC podem representar de forma intuitiva, espacia
 
 ---
 
+[Baixar cellular_automata.pdf](cellular_automata.pdf)
+
 ## ▶️ Como baixar e rodar o código
 
 ### **1. Clonar o repositório**
