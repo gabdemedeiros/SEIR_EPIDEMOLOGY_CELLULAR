@@ -5,7 +5,11 @@ O objetivo é mostrar como os **AC podem representar de forma intuitiva, espacia
 
 ---
 
+## 📄 Artigos Completos
+
 [Baixar cellular_automata.pdf](cellular_automata.pdf)
+[Baixar cellular_automata.pdf](epidemiology.pdf)
+
 
 ## ▶️ Como baixar e rodar o código
 
